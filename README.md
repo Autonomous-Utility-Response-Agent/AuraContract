@@ -5,12 +5,24 @@
 
 ---
 
+## 🎥 Live Demo
+
+**Watch the full demo:** [YouTube Video](https://youtu.be/o8stprSI1Vo)
+
+---
+
 ## ✅ Live Deployment on Sepolia Testnet
 
 **Jury: View our deployed contracts here:**
 
 - **MockUSDC**: [`0x2e6f4531E112fD6E0637be9d8736aE8a7275EAce`](https://sepolia.etherscan.io/address/0x2e6f4531E112fD6E0637be9d8736aE8a7275EAce)
 - **AuraBounty**: [`0x686297B1f4bfc7DD18Da16716c3C2817eC4591A1`](https://sepolia.etherscan.io/address/0x686297B1f4bfc7DD18Da16716c3C2817eC4591A1)
+
+**Example Transactions:**
+- [Bounty Created #1](https://sepolia.etherscan.io/tx/0x4a74070f2eb6ecf30a18cf53bb57890b260d8e743ef55b995d9a1f36966964e4) - 100 USDC bounty for energy savings
+- [Reward Claimed #1](https://sepolia.etherscan.io/tx/0xbaa359bc5788073cd4c0002d813b62a063b85beb929e76793be93fec548592a6) - IoT device claimed 2 USDC for 2 kWh saved
+- [Bounty Created #2](https://sepolia.etherscan.io/tx/0xa46d671f410c183a91f82dde9c3e257c482d269f87ad71941e243c95de686d01) - Second bounty during grid stress
+- [Reward Claimed #2](https://sepolia.etherscan.io/tx/0x292093ce1f98290797d40f9283bd1218ba18b39d86b8b9d2cdf90deffab5670a) - Device claimed 3 USDC for 3 kWh saved
 
 ---
 
